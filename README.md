@@ -98,3 +98,42 @@ Collaborative project developed at Escuela Superior de Informática (UTU), Urugu
 </table>
 
 </div>
+
+---
+
+## `$ cat profile-map.svg`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-citypop.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-citypop.svg">
+    <img src="assets/whoami-citypop.svg" width="960" alt="Lorena's QA profile map">
+  </picture>
+</div>
+
+---
+
+## `$ cat skills-radar.svg`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+        <img src="assets/radar-light.svg" width="420" alt="Junior QA and software skills radar">
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+        <img src="assets/radar-langs-light.svg" width="420" alt="Programming and markup language radar">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+</div>
