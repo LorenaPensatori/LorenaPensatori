@@ -91,7 +91,7 @@ Collaborative project developed at Escuela Superior de Informática (UTU), Urugu
       <td valign="top">
         <code>├─ ⚙ tools_and_environment:</code><br><br>
         <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" alt="Linux, Bash, Git, GitHub and VS Code"><br>
-        <sub><code>Linux · Bash · Git · GitHub · VS Code · Postman · REST APIs · MVC</code></sub>
+        <sub><code>Linux · Bash · Git · GitHub · VS Code · Docker · Postman · REST APIs · MVC</code></sub>
       </td>
     </tr>
   </tbody>

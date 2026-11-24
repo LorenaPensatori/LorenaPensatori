@@ -49,6 +49,10 @@
     {
       "label": "JavaScript",
       "value": 60
+    },
+    {
+      "label": "Docker",
+      "value": 50
     }
   ]
 }
