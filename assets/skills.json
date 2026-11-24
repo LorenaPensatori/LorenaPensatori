@@ -1,0 +1,55 @@
+{
+  "title": "Junior QA & Software Skills",
+  "_comment": "Self-rated, 0-100. Update as skills grow.",
+  "axes": [
+    {
+      "label": "Manual Testing",
+      "value": 75
+    },
+    {
+      "label": "Test Case Design",
+      "value": 70
+    },
+    {
+      "label": "Bug Reporting",
+      "value": 80
+    },
+    {
+      "label": "API Testing / Postman",
+      "value": 55
+    },
+    {
+      "label": "Java",
+      "value": 65
+    },
+    {
+      "label": "PHP",
+      "value": 70
+    },
+    {
+      "label": "SQL / MySQL",
+      "value": 75
+    },
+    {
+      "label": "Git / GitHub",
+      "value": 75
+    },
+    {
+      "label": "Linux / Bash",
+      "value": 65
+    },
+    {
+      "label": "HTML5",
+      "value": 60
+    },
+    {
+      "label": "CSS3",
+      "value": 55
+    },
+    {
+      "label": "JavaScript",
+      "value": 60
+    }
+  ]
+}
+

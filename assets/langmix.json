@@ -1,0 +1,30 @@
+{
+  "title": "QA & Software Language Stack",
+  "_comment": "Values 0-100. Edit these as your skills grow.",
+  "axes": [
+    {
+      "label": "Java",
+      "value": 65
+    },
+    {
+      "label": "JavaScript",
+      "value": 60
+    },
+    {
+      "label": "PHP",
+      "value": 70
+    },
+    {
+      "label": "SQL",
+      "value": 75
+    },
+    {
+      "label": "MySQL / MariaDB",
+      "value": 75
+    },
+    {
+      "label": "Bash/Shell",
+      "value": 45
+    }
+  ]
+}
